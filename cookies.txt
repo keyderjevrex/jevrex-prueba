@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+cdn.bigcartel.com	TRUE	/	FALSE	1999999999	_big_cartel_session	BAh7BjoPc2Vzc2lvbl9pZCIlZjA0Mjc5NWI3NmE2YWEwYWIxNTI5YjZjNjA5MWI2MDA%3D--54cea58e45764b50dae6983719fe667ed52e9e1e
+brewerystudio.bigcartel.com	TRUE	/	FALSE	1999999999	_big_cartel_session	BAh7CDoNb3JkZXJfaWQiEDE2OTE1ODk1NTMzOg9zZXNzaW9uX2lkIiVkMzdhZWZlNzM2ZWQ5NGI3MzhjZmEwMTRhMzI4ODc2NToMY2FwdGNoYSIxMWU1MjEwNDA5OTA3NjI4MDRjNmJhMTJhNTkxYjYzZDNkNGZkYWYzOS5wbmc%3D--7e474687754881fdc3da4540ef52f74825437e32
+
